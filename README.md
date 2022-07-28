@@ -40,6 +40,7 @@ console.log("Hello, GitHub!")
 <code>[![Git](assets/img/Git.png)](https://github.com/ "Git") </code>
 <code>[![GitHub](assets/img/GitHub.png)](https://git-scm.com "GitHub") </code>
 <code>[![GitHub Desktop](assets/img/GitHub-Desktop.png)](https://desktop.github.com "GitHub Desktop") </code>
+<code>[![Markdown](assets/img/Markdown.png)](https://www.markdownguide.org "Markdown") </code>
 <code>[![Postman](assets/img/Postman.png)](https://github.com/postmanlabs "Postman") </code>
 <code>[![Visual Studio Code](assets/img/Visual-Studio-Code.png)](https://code.visualstudio.com "Visual Studio Code") </code>
 <code>[![Xcode](assets/img/Xcode.png)](https://apps.apple.com/app/xcode/id497799835?l=en&mt=12 "Xcode") </code>
