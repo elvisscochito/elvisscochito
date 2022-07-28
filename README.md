@@ -14,13 +14,13 @@ console.log("Hello, GitHub!")
 * I’m looking to collaborate on projects 💼
 * How to reach me [LinkedIn](https://www.linkedin.com/in/elviro-dominguez-soriano/) 📫 -->
 
----
+<!--- --- -->
 
 ## __Topics__ 💬
 
 **`[Software, web, video games and mobile development]`**, **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**.
 
----
+<!--- --- -->
 
 ## __Languages & tools__ 💻
 
@@ -51,7 +51,7 @@ console.log("Hello, GitHub!")
 | - | - |:-:|
 | **1** | *Introduction to HTML5* | [Preview](https://www.linkedin.com/posts/elviro-dominguez-soriano_completion-certificate-for-introduction-to-activity-6956659441320570880-6k4K?utm_source=linkedin_share&utm_medium=member_desktop_web "iCloud") | -->
 
----
+<!--- --- -->
 
 ## __Stats__ 📊
 
