@@ -4,7 +4,7 @@
 console.log("Hello, GitHub!")
 ````
 
----
+<!--- ---
 
 ## __About me__ 🙌
 
@@ -12,6 +12,7 @@ console.log("Hello, GitHub!")
 * I’m interested in all about technology 👀 
 * I’m currently learning a lot of things 🤯
 * I’m looking to collaborate on projects 💼
+* How to reach me [LinkedIn](https://www.linkedin.com/in/elviro-dominguez-soriano/) 📫 -->
 
 ---
 
@@ -25,7 +26,7 @@ console.log("Hello, GitHub!")
 
 <code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
 <code>[![Java](assets/img/Java.png)](https://www.java.com/ "Java") </code>
-<code>[![HTML](assets/img/html5.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics "HTML") </code>
+<code>[![HTML](assets/img/HTML5.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics "HTML") </code>
 <code>[![CSS](assets/img/CSS3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS") </code>
 <code>[![JavaScript](assets/img/JavaScript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") </code>
 <code>[![Swift](assets/img/Swift.png)](https://github.com/apple/swift "Swift") </code>
@@ -43,12 +44,12 @@ console.log("Hello, GitHub!")
 <code>[![Visual Studio Code](assets/img/Visual-Studio-Code.png)](https://code.visualstudio.com "Visual Studio Code") </code>
 <code>[![Xcode](assets/img/Xcode.png)](https://apps.apple.com/app/xcode/id497799835?l=en&mt=12 "Xcode") </code>
 
----
+<!--- ---
 ## __Education__ 📚
 
 | Nº | Courses and certifications | Link |
 | - | - |:-:|
-| **1** | *Introduction to HTML5* | [Preview](https://www.linkedin.com/posts/elviro-dominguez-soriano_completion-certificate-for-introduction-to-activity-6956659441320570880-6k4K?utm_source=linkedin_share&utm_medium=member_desktop_web "iCloud") |
+| **1** | *Introduction to HTML5* | [Preview](https://www.linkedin.com/posts/elviro-dominguez-soriano_completion-certificate-for-introduction-to-activity-6956659441320570880-6k4K?utm_source=linkedin_share&utm_medium=member_desktop_web "iCloud") | -->
 
 ---
 
@@ -62,8 +63,7 @@ console.log("Hello, GitHub!")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisscochito&layout=compact&bg_color=00000000&border_color=364147&title_color=4892FF&text_color=78818d "Most Used Languages")
 
-<!---
----
+<!--- ---
 
 ## __Pins__ 📌
 
@@ -75,13 +75,13 @@ console.log("Hello, GitHub!")
 * __Gists:__ 
 -->
 
----
+<!---  ---
 
 ## __Contact__ 📩
 
 [![LinkedIn profile](assets/img/LinkedIn.png)](https://www.linkedin.com/in/elviro-dominguez-soriano/ "LinkedIn")
 
----
+<!--- ---
 
 ## __Blog__ 🗒
 
@@ -98,4 +98,4 @@ console.log("Hello, GitHub!")
 
 ---
 
-> And that´s all, thanks for check my profile! 👋
+> And that´s all, thanks for check my profile! 👋 -->
