@@ -74,9 +74,9 @@ console.log("Hello, GitHub!")
 * __Gists:__ 
 -->
 
-<!---  ---
+<!---  --- -->
 
-## __Contact__ 📩
+## __Get in touch__ 📩
 
 [![LinkedIn profile](assets/img/LinkedIn.png)](https://www.linkedin.com/in/elviro-dominguez-soriano/ "LinkedIn")
 
