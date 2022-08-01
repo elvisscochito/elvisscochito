@@ -16,13 +16,13 @@ console.log("Hello, GitHub!")
 
 <!--- --- -->
 
-## __Paths__ 💬
+<!--- ## __Paths__ 💬
 
-**`[Software, web, video games and mobile development]`**, **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**.
+**`[Software, web, video games and mobile development]`**, **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**. -->
 
 <!--- --- -->
 
-## __Languages & tools__ 💻
+<!--- ## __Languages & tools__ 💻
 
 <code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
 <code>[![Java](assets/img/Java.png)](https://www.java.com/ "Java") </code>
@@ -43,7 +43,7 @@ console.log("Hello, GitHub!")
 <code>[![Markdown](assets/img/Markdown.png)](https://www.markdownguide.org "Markdown") </code>
 <code>[![Postman](assets/img/Postman.png)](https://github.com/postmanlabs "Postman") </code>
 <code>[![Visual Studio Code](assets/img/Visual-Studio-Code.png)](https://code.visualstudio.com "Visual Studio Code") </code>
-<code>[![Xcode](assets/img/Xcode.png)](https://apps.apple.com/app/xcode/id497799835?l=en&mt=12 "Xcode") </code>
+<code>[![Xcode](assets/img/Xcode.png)](https://apps.apple.com/app/xcode/id497799835?l=en&mt=12 "Xcode") </code> -->
 
 <!--- ---
 ## __Education__ 📚
