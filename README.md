@@ -1,4 +1,4 @@
-# Quick start ✅
+# Welcome to my GitHub :octocat:
 
 ```javascript
 console.log("Hello, GitHub!")
