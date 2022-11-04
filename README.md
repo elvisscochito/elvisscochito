@@ -58,7 +58,7 @@ console.log("Hello, GitHub!")
 
 <!--- * __General__: -->
 
-[![Elviro's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisscochito&theme=default&show_icons=true&bg_color=00000000&border_color=00000000&title_color=4892FF&icon_color=4892FF&text_color=78818d&hide=prs,issues "Elviro Dominguez Soriano's GitHub Stats")](https://github.com/elvisscochito)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisscochito&layout=compact&bg_color=00000000&border_color=00000000&title_color=4892FF&text_color=78818d&hide=C# "Most Used Languages")](https://github.com/elvisscochito)
+[![Elviro's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisscochito&theme=default&show_icons=true&bg_color=00000000&border_color=00000000&title_color=4892FF&icon_color=4892FF&text_color=78818d&hide=prs,issues "Elviro Dominguez Soriano's GitHub Stats")](https://github.com/elvisscochito)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisscochito&layout=compact&bg_color=00000000&border_color=00000000&title_color=4892FF&text_color=78818d&hide=c# "Most Used Languages")](https://github.com/elvisscochito)
 
 <!--- * __Languages__: -->
 
