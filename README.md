@@ -14,7 +14,7 @@ console.log("Hello, GitHub!")
 * I’m looking to collaborate on projects 💼
 * How to reach me [LinkedIn](https://www.linkedin.com/in/elviro-dominguez-soriano/) 📫 -->
 
----
+<!--- --- -->
 
 ## __Paths__ 💬
 
