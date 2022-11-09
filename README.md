@@ -20,7 +20,7 @@ console.log("Hello, GitHub!")
 
 <img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/paths.svg" width="auto" height="auto">
 
-**`web development`** **`mobile development`** **`game development`**
+<!--- **`web development`** **`mobile development`** **`game development`** -->
 
 <!--- **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**.-->
 
