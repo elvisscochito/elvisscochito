@@ -18,6 +18,8 @@ console.log("Hello, GitHub!")
 
 ## __Paths__ 💻
 
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/master/paths.svg" width="auto" height="auto">
+
 **`web development`** **`mobile development`** **`game development`**
 
 <!--- **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**.-->
@@ -102,29 +104,3 @@ console.log("Hello, GitHub!")
 > And that´s all, thanks for check my profile! 👋 -->
 
 <!--- Styles for path badges -->
-
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-
-            <style>
-                div.paths {
-                    display: flex;
-                    gap: 1rem;
-                }
-
-                code {
-                    border: thin solid silver;
-                    border-radius: 1rem;
-                    padding: 0.2rem 0.5rem;
-                    font-weight: bold;
-                }
-            </style>
-
-        <div class="tags">
-            <code>web development</code>
-            <code>mobile development</code>
-            <code>web development</code>
-        </div>
-    </foreignObject>
-</svg>
