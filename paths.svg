@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 30" width="800" height="30" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 30" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -18,7 +18,6 @@
             </style>
 
             <div class="paths">
-            <p>Test</p>
                 <code>web development</code>
                 <code>mobile development</code>
                 <code>web development</code>
