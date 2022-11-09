@@ -18,7 +18,7 @@ console.log("Hello, GitHub!")
 
 ## __Paths__ 💻
 
-<img src="paths.svg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/paths.svg" width="auto" height="auto">
 
 **`web development`** **`mobile development`** **`game development`**
 
