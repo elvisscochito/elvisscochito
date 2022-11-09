@@ -13,7 +13,7 @@
                     border: thin solid hsl(210, 18%, 84%);
                     border-radius: 1rem;
                     padding: 0.2rem 0.5rem;
-                    font-weight: bold;
+                    font-weight: 500;
                     color: hsl(212, 10%, 38%);
                 }
             </style>
