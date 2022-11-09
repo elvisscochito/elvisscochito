@@ -5,15 +5,14 @@
                 div.paths {
                     display: flex;
                     flex-direction: row;
-                    gap: 1rem;
-                    padding: 1rem 1rem 0 0;
+                    gap: 0.5rem;
                 }
 
                 code {
                     border: thin solid hsl(210, 18%, 84%);
                     border-radius: 1rem;
                     padding: 0.2rem 0.5rem;
-                    font-weight: 500;
+                    font-weight: 700;
                     color: hsl(212, 10%, 38%);
                 }
             </style>
