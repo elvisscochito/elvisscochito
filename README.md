@@ -18,7 +18,7 @@ console.log("Hello, GitHub!")
 
 ## __Paths__ 💻
 
-`web development` `(mobile development)` **`(game development)`**
+`web development` `mobile development` `game development`
 
 <!--- **`[Data structure and algorithms]`**, **`[Data science and automation]`** & **`[Databases management]`**.-->
 
