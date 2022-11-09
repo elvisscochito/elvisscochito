@@ -102,14 +102,17 @@ console.log("Hello, GitHub!")
 > And that´s all, thanks for check my profile! 👋 -->
 
 <!--- Styles for path badges -->
+
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
+
             <style>
                 div.paths {
                     display: flex;
-                    flex-gap: 1rem;
+                    gap: 1rem;
                 }
+
                 code {
                     border: thin solid silver;
                     border-radius: 1rem;
@@ -118,11 +121,10 @@ console.log("Hello, GitHub!")
                 }
             </style>
 
-            <div class="paths">
-                <code>web development</code>
-                <code>mobile development</code>
-                <code>web development</code>
-            <div>
+        <div class="tags">
+            <code>web development</code>
+            <code>mobile development</code>
+            <code>web development</code>
         </div>
     </foreignObject>
 </svg>
