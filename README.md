@@ -16,9 +16,12 @@ console.log("Hello, GitHub!")
 
 <!--- --- -->
 
-## __Paths__ 💻
+## **Skills** 💻
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/skills.svg" width="auto" height="auto">
 
-<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/paths.svg" width="auto" height="auto">
+<!--- ## __Paths__ 💻
+
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/paths.svg" width="auto" height="auto"> -->
 
 <!--- **`web development`** **`mobile development`** **`game development`** -->
 
@@ -26,8 +29,8 @@ console.log("Hello, GitHub!")
 
 <!--- --- -->
 
-## __Languages & tools__ ⚙️
-<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/languages-and-tools.svg" width="auto" height="auto">
+<!--- ## __Languages & tools__ ⚙️
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/languages-and-tools.svg" width="auto" height="auto"> -->
 
 <!--- <code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
 <code>[![Java](assets/img/Java.png)](https://www.java.com/ "Java") </code>

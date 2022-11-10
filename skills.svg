@@ -1,0 +1,71 @@
+<svg fill="none" viewBox="0 0 800 28" width="800" height="28" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                div.skills {
+                    display: flex;
+                    flex-direction: row;
+                    gap: 0.5rem;
+                }
+
+                code {
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+                    border-radius: 1rem;
+                    padding: 0.2rem 0.55rem;
+                    font-size: 0.9rem;
+                    font-weight: 450;
+                }
+
+                code.path {
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+                    border-radius: 1rem;
+                    padding: 0.2rem 0.5rem;
+                    font-weight: 500;
+                }
+
+                @media (prefers-color-scheme: light) {
+                    code {
+                        background-color: hsl(199, 100%, 93%);
+                        color: hsl(212, 92%, 45%);
+                    }
+
+                    code.path {
+                    border: thin solid hsl(210, 18%, 84%);
+                    color: hsl(212, 10%, 38%);                        
+                    }
+                }
+
+                @media (prefers-color-scheme: dark) {
+                    code.path {
+                        border: thin solid hsl(212, 10%, 38%);
+                        color: hsl(212, 9%, 58%);
+                    }
+
+                    code {
+                        background-color: hsl(216, 84%, 52%);
+                        color: hsl(212, 100%, 67%);
+                    }
+                }
+            </style>
+
+            <div class="skills">
+                <code>git</code>
+                <code>github</code>
+                <code class="path">web-development</code>
+                <code>html</code>
+                <code>css</codel>
+                <code>js</code>
+                <code>react</code>
+                <code class="path">mobile-development</code>
+                <code>swift</code>
+                <code>kotlin</code>
+                <code class="path">game-development</code>
+                <code>c#</code>
+                <code>algorithms</code>
+                <code>c++</code>
+                <code class="path">data-science</code>
+                <code>python</code>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
