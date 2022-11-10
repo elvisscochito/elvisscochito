@@ -18,11 +18,16 @@
 
                 @media (prefers-color-scheme: light) {
                     code.git {
-                        background-color: hsl(16, 100%, 50%);
+                        background-color: rgb(241, 78, 50);
                         color: hsl(0, 0%, 100%);
                     }
                     code.github {
                         background-color: hsl(213, 13%, 16%);
+                        color: hsl(0, 0%, 100%);
+                    }
+                    code.html {
+                        background-color: hsl(16, 100%, 50%);
+                        rgb(241, 78, 50)
                         color: hsl(0, 0%, 100%);
                     }
                     code {
