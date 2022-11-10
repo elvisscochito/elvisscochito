@@ -17,7 +17,7 @@
                 }
 
                 @media (prefers-color-scheme: light) {
-                    code.git {
+                    <!-- code.git {
                         background-color: rgb(241, 78, 50);
                         color: hsl(0, 0%, 100%);
                     }
@@ -36,19 +36,19 @@
                     code.js {
                         background-color: hsl(52, 92%, 60%);
                         color: hsl(0, 0%, 100%);
-                    }
+                    } -->
                     code {
                         background-color: hsl(199, 100%, 93%);
                         color: hsl(212, 92%, 45%);
                     }
                 }
 
-                <!-- @media (prefers-color-scheme: dark) {
+                @media (prefers-color-scheme: dark) {
                     code {
-                        border: thin solid hsl(212, 10%, 38%);
-                        color: hsl(212, 9%, 58%);
+                        background-color: hsl(216, 84%, 52%);
+                        color: hsl(212, 100%, 67%);
                     }
-                } -->
+                }
             </style>
 
             <div class="languages-and-tools">
