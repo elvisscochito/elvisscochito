@@ -27,7 +27,7 @@ console.log("Hello, GitHub!")
 <!--- --- -->
 
 ## __Languages & tools__ ⚙️
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/elvisscochito/elvisscochito/main/languages-and-tools.svg" width="auto" height="auto">
 
 <!--- <code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
 <code>[![Java](assets/img/Java.png)](https://www.java.com/ "Java") </code>
