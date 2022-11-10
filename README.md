@@ -26,9 +26,10 @@ console.log("Hello, GitHub!")
 
 <!--- --- -->
 
-<!--- ## __Languages & tools__ 💻
+## __Languages & tools__ ⚙️
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="auto" height="auto">
 
-<code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
+<!--- <code>[![C++](assets/img/C++.png)](https://isocpp.org "C++") </code>
 <code>[![Java](assets/img/Java.png)](https://www.java.com/ "Java") </code>
 <code>[![HTML](assets/img/HTML5.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics "HTML") </code>
 <code>[![CSS](assets/img/CSS3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS") </code>
