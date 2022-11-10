@@ -59,6 +59,7 @@
 
             <div class="skills">
                 <div class="row">
+                    <code class="path">svc</code>
                     <code class="languages-and-tools">git</code>
                     <code class="languages-and-tools">github</code>
                     <code class="path">web-development</code>
@@ -77,6 +78,9 @@
                     <code class="languages-and-tools">c++</code>
                     <code class="path">data-science</code>
                     <code class="languages-and-tools">python</code>
+                    <code class="path">databases</code>
+                    <code class="languages-and-tools">mysql</code>
+                    <code class="languages-and-tools">mongodb</code>
                 </div>
             </div>
         </div>
