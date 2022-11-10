@@ -17,6 +17,10 @@
                 }
 
                 @media (prefers-color-scheme: light) {
+                    code.git {
+                        background-color: hsl(16, 100%, 50%);
+                        color: hsl(0, 0%, 100%);
+                    }
                     code {
                         background-color: hsl(199, 100%, 93%);
                         color: hsl(212, 92%, 45%);
@@ -32,7 +36,7 @@
             </style>
 
             <div class="languages-and-tools">
-                <code>git</code>
+                <code class="git">git</code>
                 <code>github</code>
                 <code>html</code>
                 <code>css</code>
