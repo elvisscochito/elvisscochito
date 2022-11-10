@@ -13,7 +13,7 @@
                     border-radius: 1rem;
                     padding: 0.2rem 0.55rem;
                     font-size: 0.9rem;
-                    font-weight: 400;
+                    font-weight: 450;
                 }
 
                 @media (prefers-color-scheme: light) {
@@ -27,7 +27,14 @@
                     }
                     code.html {
                         background-color: hsl(16, 100%, 50%);
-                        rgb(241, 78, 50)
+                        color: hsl(0, 0%, 100%);
+                    }
+                    code.css {
+                        background-color: hsl(228, 78%, 52%);
+                        color: hsl(0, 0%, 100%);
+                    }
+                    code.js {
+                        background-color: hsl(52, 92%, 60%);
                         color: hsl(0, 0%, 100%);
                     }
                     code {
@@ -47,9 +54,9 @@
             <div class="languages-and-tools">
                 <code class="git">git</code>
                 <code class="github">github</code>
-                <code>html</code>
-                <code>css</code>
-                <code>js</code>
+                <code class="html">html</code>
+                <code class="css">css</code>
+                <code class="js">js</code>
                 <code>react</code>
                 <code>swift</code>
                 <code>kotlin</code>
