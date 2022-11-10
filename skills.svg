@@ -24,6 +24,7 @@
                     padding: 0.2rem 0.5rem;
                     font-weight: 500;
                     width: fit-content;
+                    white-space: nowrap;
                 }
 
                 @media (prefers-color-scheme: light) {
