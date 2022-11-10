@@ -17,7 +17,7 @@
                     color: hsl(212, 10%, 38%);
                 }
 
-                @prefers-color-scheme: dark {
+                @media (prefers-color-scheme: dark) {
                     code {
                         border: thin solid hsl(212, 10%, 38%);
                         color: hsl(212, 9%, 58%);
