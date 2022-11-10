@@ -21,6 +21,7 @@
                     border-radius: 1rem;
                     padding: 0.2rem 0.5rem;
                     font-weight: 500;
+                    white-space: nowrap;
                 }
 
                 @media (prefers-color-scheme: light) {
