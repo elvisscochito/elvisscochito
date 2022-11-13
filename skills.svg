@@ -69,6 +69,7 @@
                     <code class="languages-and-tools">json</code>
                     <code class="languages-and-tools">react</code>
                     <code class="languages-and-tools">node</code>
+                    <code class="languages-and-tools">npm</code>
                     <code class="languages-and-tools">express</code>
                 </div>
                 <div class="row">
@@ -89,6 +90,8 @@
                     <code class="path">databases</code>
                     <code class="languages-and-tools">mysql</code>
                     <code class="languages-and-tools">mongodb</code>
+                    <code class="path">design</code>
+                    <code class="languages-and-tools">figma</code>
                 </div>
             </div>
         </div>
