@@ -66,6 +66,7 @@
                     <code class="languages-and-tools">html</code>
                     <code class="languages-and-tools">css</code>
                     <code class="languages-and-tools">js</code>
+                    <code class="languages-and-tools">json</code>
                     <code class="languages-and-tools">react</code>
                     <code class="languages-and-tools">node</code>
                     <code class="languages-and-tools">express</code>
@@ -73,14 +74,17 @@
                 <div class="row">
                     <code class="path">mobile-development</code>
                     <code class="languages-and-tools">swift</code>
+                    <code class="languages-and-tools">xcode</code>
                     <code class="languages-and-tools">kotlin</code>
+                    <code class="languages-and-tools">android-studio</code>
                     <code class="path">game-development</code>
                     <code class="languages-and-tools">c#</code>
+                </div>
+                <div class="row">
+                    <code class="languages-and-tools">unity</code>
                     <code class="path">algorithms</code>
                     <code class="languages-and-tools">c++</code>
                     <code class="path">data-science</code>
-                </div>
-                <div class="row">
                     <code class="languages-and-tools">python</code>
                     <code class="path">databases</code>
                     <code class="languages-and-tools">mysql</code>
